@@ -38,7 +38,7 @@ QuickOPC can also be easily used from **Python**.
 PLEASE DO NOT USE PRE-RELEASE PACKAGES UNLESS INSTRUCTED TO DO SO.
 
 Need help, **tech support**, or missing some example? Ask us for it on our 
-[Online Forums](https://www.opclabs.com/forum/index)!
+[Online Forums](https://forum.opclabs.com/forum/index)!
 You *do not have to own a commercial license* in order to use Online Forums, 
 and we *reply to every post*.
 
@@ -79,7 +79,7 @@ What is only available from the [Setup program](https://www.opclabs.com/download
 How to start
 ------------
 If you do not mind reading the documentation: [Getting Started with QuickOPC](
-https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/User%27s%20Guide%20and%20Reference-Connectivity%20Software/webframe.html#Getting%20Started%20with%20QuickOPC.html).
+https://www.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/User%27s%20Guide%20and%20Reference-Connectivity%20Software/webframe.html#Getting%20Started%20with%20QuickOPC.html).
 Or, the whole [User's Guide](https://www.opclabs.com/documentation).
 
 Otherwise, just instantiate one of the following objects (depending on the 
